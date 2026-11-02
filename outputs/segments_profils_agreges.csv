@@ -1,0 +1,7 @@
+segment,effectif,part (%),minutes_med,sessions_med,posts_sem_med,reels_jour_med,abonnes_med,stress_moy,bonheur_moy,sommeil_moy
+S1 · Modérés spectateurs,44848,22.42,59.0,3.0,3.0,75.0,968.5,8.49,6.56,7.0
+S2 · Modérés créateurs,15463,7.73,68.0,3.0,6.0,158.0,1183.0,6.55,7.04,6.98
+S3 · Réguliers spectateurs,50041,25.02,181.0,8.0,4.0,149.0,1057.0,20.67,5.49,7.0
+S4 · Réguliers créateurs,21883,10.94,181.0,8.0,8.0,227.0,1295.0,16.36,5.58,7.01
+S5 · Intensifs spectateurs,47941,23.97,305.0,15.0,7.0,227.0,1223.0,32.28,4.21,7.0
+S6 · Intensifs créateurs,19824,9.91,300.0,14.0,12.0,300.0,1529.0,29.4,4.84,6.99

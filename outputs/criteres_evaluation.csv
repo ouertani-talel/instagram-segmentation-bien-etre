@@ -1,0 +1,9 @@
+critère,mesure,respecté
+C1 Assignable à tous,3 champs d'activité ; accord sur utilisateurs jamais vus 99.93%,oui
+C2 Taille,plus petit segment 7.7 %,oui
+C3 Stabilité,ARI moyen 0.995 (min 0.993),oui
+C4 Lien bien-être,η² stress 0.645 = 94% de la référence temps,oui
+C5 Au-delà du temps,écart Créateurs-Reels − Spectateurs : -3.18 pts à temps égal (± 0.06) ; -0.50 pts à temps ET âge égaux (± 0.13),partiel
+C6 Différenciation,d de Cohen minimal entre styles : 1.19,oui
+C7 Reproductibilité,empreinte des étiquettes : 505750553241 (comparée entre deux exécutions au § 13),oui
+C8 Protection des données,aucune variable santé/profil en entrée ; agrégats ≥ 100 ; risque d'inférence mesuré au § 10,oui

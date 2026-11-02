@@ -1,0 +1,18 @@
+{
+ "hash_segments": 505750553241,
+ "accord_test": 0.999325,
+ "eta2_stress_retenue": 0.645108,
+ "eta2_stress_reference": 0.688016,
+ "effet_style_stress": -3.182481,
+ "ic95": 0.060842,
+ "effet_style_stress_age_egal": -0.504571,
+ "ic95_age": 0.126758,
+ "segments_pct": {
+  "S1 · Modérés spectateurs": 22.424,
+  "S2 · Modérés créateurs": 7.732,
+  "S3 · Réguliers spectateurs": 25.021,
+  "S4 · Réguliers créateurs": 10.942,
+  "S5 · Intensifs spectateurs": 23.97,
+  "S6 · Intensifs créateurs": 9.912
+ }
+}
